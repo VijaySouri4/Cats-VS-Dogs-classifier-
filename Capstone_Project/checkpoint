@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/Udacity/dogs-vs-cats-redux-kernels-edition/dogsvscats-1e-05-10conv-basic.model"
+all_model_checkpoint_paths: "D:/Udacity/dogs-vs-cats-redux-kernels-edition/dogsvscats-1e-05-10conv-basic.model"
